@@ -109,8 +109,3 @@ Open the project in VS Code, then run notebooks with the interactive runner.
 Author: Mark June Almojuela
 Last modified: 2025-11-10
 
-If you'd like, I can:
-- Add a `requirements.txt` file,
-- Add example chart images to include in this README,
-- Or generate a short project blurb optimized for GitHub profile/portfolio usage.
-
